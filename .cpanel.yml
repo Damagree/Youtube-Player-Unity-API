@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u8171221/public_html/repositories/Youtube-Player-Unity-API/
-    - /bin/cp -R images $DEPLOYPATH
+    - export DEPLOYPATH=/home/u8171221/public_html/test-app/TestYoutubeAPI/
+    - /bin/cp index.html $DEPLOYPATH
